@@ -1,3 +1,3 @@
 # NN_Taiwan
 
-Neural network for predicting Taiwan's PM2.5.
+Neural network for regressing/predicting Taiwan's PM2.5.
